@@ -1,0 +1,15 @@
+{
+  "name": "info_site",
+  "version": "1.0.0",
+  "description": "first nodejs project for the odin nodejs course",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  },
+  "repository": "git@github.com:afixoftrix/odin_basic_info_site.git",
+  "author": "Unwana Essien <unwana.essien@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
