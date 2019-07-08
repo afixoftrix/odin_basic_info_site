@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans&display=swap');
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'PT Sans', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+    margin-right: 20px
+}
+.right a:nth-child(2){
+    margin-right: 0;
+}
+nav{
+    background-color: #222;
+    color: #41d1f1;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+}
+.container {
+    padding: 20px;
+}
+b {
+    font-size: 18px;
+}
